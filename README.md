@@ -20,5 +20,6 @@ Cursor Heatmap Trail
 
 | Description                       | Key                                                                 |
 | --------------------------------- | -------------------------------------------------------------------- |
+| Switch windows | <kbd>Alt</kbd> + <kbd>Tab</kbd> |
 | Display the “About” popup | <kbd>F1</kbd> |
 | Exit the program       | <kbd>Esc</kbd>      |
