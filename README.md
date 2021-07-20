@@ -23,3 +23,9 @@ Cursor Heatmap Trail
 | Switch windows | <kbd>Alt</kbd> + <kbd>Tab</kbd> |
 | Display the “About” popup | <kbd>F1</kbd> |
 | Exit the program       | <kbd>Esc</kbd>      |
+
+
+<h1 align="center">
+<a href="https://github.com/girkovarpa/cursor-heatmap-trail/releases">
+👉 Download for Windows 👈</a>
+</h1>
